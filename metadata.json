@@ -1,0 +1,6 @@
+{
+  "name": "RETAIN AI",
+  "description": "RETAIN AI: predictive churn analytics, customer revenue intelligence, and risk simulation powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
